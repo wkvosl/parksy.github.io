@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="todo_github.js"/>
+</head>
+<body>
+	체크리스트
+	
+<!-- 	추가 / 밑줄  -->
+	<input type="text" class="input">
+	<button type="button">추가하기</button>
+
+	<div class="checkbox_div">
+		<input type="checkbox">
+	</div>
+	
+	
+</body>
+</html>
